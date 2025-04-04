@@ -7,7 +7,7 @@ After visiting the given URL we see a simple register/login panel. After some tr
 ### Grid It
 After successful logging in, we see a 2d  plane where we can either *add* or *remove* points. This is the only functionality of the site, so it is most likely our target to explore. We notice that any request goes through `controller.php?action=` where `action=` can be followed by either `login`, `register`, `logout`, `add_point`, `delete_point` or hidden `debug`. 
 
-<- here ->
+![Image](https://github.com/user-attachments/assets/397c981b-3b77-4248-a952-872f04470df2)
 
 
 ### Adding points
