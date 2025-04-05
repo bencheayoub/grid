@@ -10,7 +10,6 @@ After successful logging in, we see a 2d  plane where we can either *add* or *re
 ![Image](https://github.com/user-attachments/assets/397c981b-3b77-4248-a952-872f04470df2)
 
 
-
 ### Adding points
 Adding points is as simple as sending the request: `POST /controller.php?action=add_point data="x={x}&y={y}"`. 
 
